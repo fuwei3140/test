@@ -698,6 +698,7 @@ rules:
 - DOMAIN-SUFFIX,openai.com,PROXY
 - DOMAIN-SUFFIX,midjourney.com,PROXY
 - DOMAIN-SUFFIX,discord.com,PROXY
+- DOMAIN-SUFFIX,v2ex.com,PROXY
 
 
 
