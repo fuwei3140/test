@@ -78,7 +78,7 @@ proxies:
 # Trojan
 - name: "trojan"
   type: trojan
-  server: www.jojojing.top
+  server: jojojing.top
   port: 443
   password: 05ac1b46-a57a-4fb1-8c01-0ca67de23d69
   # udp: true
