@@ -78,9 +78,9 @@ proxies:
 # Trojan
 - name: "trojan"
   type: trojan
-  server: www.jojojing.top
+  server: www.ningmengmeng.top
   port: 443
-  password: 05ac1b46-a57a-4fb1-8c01-0ca67de23d69
+  password: 372328c7-8955-a9e0-883f-51f2dbd3629d
   # udp: true
   # sni: example.com # 填写伪装域名
   alpn:
